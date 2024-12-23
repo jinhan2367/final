@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+video{
+    position: relative;
+    display:block
+}
+.wrap{
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 20;
+}
+.subcopy{
+    height: 119px;
+    padding-top: 583px;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    line-height: 40px;
+    letter-spacing: -0.5px;
+    font-weight: 500;
+    font-family: "GmarketSansBold", sans-serif;
+}
+.bt00{padding-top: 30px;text-align: center;}
+
+.system{position: absolute;width: 134px;height: 45px;;text-align: right;padding-right: 10px;background-image: url(img/bt01.png);right: 0%;margin-top: 10px;}
+
+.font_b{font-family: "GmarketSansBold", sans-serif;font-size: 35px;color: white;text-align: center;}
+.font_m{font-family: "GmarketSansMedium", sans-serif;font-size: 18px;color: white;text-align: center;}
+.font_l{font-family: "GmarketSansLight", sans-serif;font-size: 16px;color: white;text-align: center;}
+.font_a{font-family: "GmarketSansLight", sans-serif;font-size: 16px;color: white;text-align: left;padding-left: 17px;padding-top: 40px;}
+.font01{padding-top:77px}
+.font02{padding-top:11px}
+.font03{padding-top:9px}
+.font04{padding-right: 100px;}
+.font05{padding-top: 125px;}
+.font06{padding-top: 160px;}    
+.font07{padding-top: 13px;}
+.font08{margin-left: 200px; margin-top: 30px;}
+.font09{margin-left: 320px; margin-top: -105px;}
+.font10{margin-left: 439px; margin-top: -185px;}
+.font11{margin-left: -180px;}
+
+.img00{height:574px;background-image: url(img/img01.png);}
+.img01{height:242px;background-image: url(img/img02.png);}
+.img02{height:242px;background-image: url(img/img03.png);}
+.img03{height:215px;background-image: url(img/img04.png);}
+.img04{height:242px;background-image: url(img/img05.png);}
+.img05{height:242px;background-image: url(img/img06.png);}
+.img06{height:242px;background-image: url(img/img07.png);}
+.img10{width:91px;height:105px;background-image: url(img/epicgames.png);}
+.img11{width:105px;height:105px;background-image: url(img/steam.png);}
+.img12{margin-top: -225px; margin-left: 440px; width:171px;height:242px;background-image: url(img/title.png);}
+.img13{width: 220px; height: 46px;background-image: url(img/bt02.png);}
+
+.solid{height: 15px;background-color: #49A3E9;}
+.solid1{height: 62px;background-color: #49A3E9;}
+.solid2{height: 242px;background-color: #49A3E9;}
+
+.home{width: 220px;margin-top: 5px;margin-left: 195px;}
+.home1{width: 91px;margin-top: -115px;margin-left: 310px;}
+.home2{width: 105px;margin-top: 10px;margin-left: 200   px;}
+
+footer{margin-top: -1px; height: 50px;background-color: #49A3E9;}
+
+.img07{height:37px; width: 145px;background-image: url(img/quanticdream.png);margin-left: 75px;}
+.img08{height:37px; width: 134px;background-image: url(img/DetroitBecomeHuman.png);margin-left: 150px;}
+
+.font_t{font-family: "GmarketSansLight", sans-serif;font-size: 5px;color: white;text-align: center;margin-top: 2px;}
